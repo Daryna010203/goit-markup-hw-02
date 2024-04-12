@@ -12,6 +12,7 @@ a {
 }
 .logo {
   font-family: 'Raleway', sans-serif;
+  font-weight: 700;
   font-size: 18px;
   line-height: 117%;
   letter-spacing: 0.03em;
@@ -56,13 +57,14 @@ a {
   line-height: 107%;
   letter-spacing: 0.02em;
   text-align: center;
-  color: #d9d9d9;
+  color: #fff;
 }
 .button {
   font-weight: 500;
   font-size: 16px;
   line-height: 150%;
   letter-spacing: 0.04em;
+  cursor: pointer;
   color: #fff;
   background-color: #4d5ae5;
 }
@@ -77,6 +79,7 @@ a {
   line-height: 111%;
   letter-spacing: 0.02em;
   text-align: center;
+  text-transform: capitalize;
   color: #2e2f42;
 }
 .block-subtitle {
